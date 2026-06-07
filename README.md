@@ -1,4 +1,4 @@
-# CNN-Based Surface Defect Classification Using Deep Learning
+# Fabric Defect Detection with Deep Learning
 
 ## Project Overview
 
