@@ -156,5 +156,5 @@ This project demonstrates the use of **deep learning for automated fabric surfac
 ## Author
 
 **Jordan Jesudas**
-Electronics Engineer | Machine Learning Enthusiast
+
 
